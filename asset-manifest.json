@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/React-Project-Users/static/css/main.5188ed15.css",
+    "main.js": "/React-Project-Users/static/js/main.71717049.js",
+    "static/media/confirmation-1152155_640.jpg": "/React-Project-Users/static/media/confirmation-1152155_640.ddccf30fa3e3de944542.jpg",
+    "index.html": "/React-Project-Users/index.html",
+    "main.5188ed15.css.map": "/React-Project-Users/static/css/main.5188ed15.css.map",
+    "main.71717049.js.map": "/React-Project-Users/static/js/main.71717049.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5188ed15.css",
+    "static/js/main.71717049.js"
+  ]
+}
